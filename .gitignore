@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 流水线产物
+images/
+audio/
+clips/
+subs/
+
+# 最终成片 (太大)
+output_*.mp4
+output_merged.mp4
+output_final.mp4
+
+# 中间元数据
+upload_meta.json
+
+# 用户专属内容
+content.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 日志
+*.log

@@ -1,0 +1,43 @@
+{
+  "title": "猫咪的五种超能力，第3种太不可思议了！",
+  "tags": ["猫咪", "冷知识", "科普", "AI生成", "宠物"],
+  "desc": "你以为猫咪只会卖萌？它们其实拥有五种堪比超级英雄的能力！从夜视眼到自愈力，最后一个超能力连科学家都解释不清。",
+  "segments": [
+    {
+      "id": 1,
+      "narration": "你以为猫咪只会卖萌和睡觉吗？那你可就大错特错了。实际上，这些毛茸茸的小家伙们，身上隐藏着五种堪比超级英雄的超能力。今天我们就来揭秘猫咪的隐藏技能，第三种绝对颠覆你的认知。",
+      "image_prompt": "A majestic cat standing on a rooftop at sunset, wearing a tiny superhero cape, dramatic lighting, cinematic composition, 16:9 aspect ratio, photorealistic, high detail",
+      "subtitle": "猫咪的五种超能力"
+    },
+    {
+      "id": 2,
+      "narration": "超能力一：夜视之眼。猫咪的夜视能力是人类的六到八倍。它们眼中的世界，即使在伸手不见五指的黑夜里，也亮如白昼。这得益于它们眼球后方的一层特殊反光膜，叫做照膜。这层膜能把微弱的光线反射回去，二次利用，堪称天然的夜视仪。",
+      "image_prompt": "Close-up of a cat's glowing eyes in complete darkness, green and golden reflections, mysterious atmosphere, bokeh light particles, cinematic dark background, photorealistic, 16:9",
+      "subtitle": "超能力一：夜视之眼"
+    },
+    {
+      "id": 3,
+      "narration": "超能力二：自由落体缓冲。猫咪从高处坠落时，能在短短零点三秒内完成身体翻转，四肢朝下安全着陆。这就是著名的猫翻身反射。而且，从七层楼以上高度坠落的猫咪，存活率反而比低楼层更高，因为它们有更多时间展开身体，增加空气阻力，像降落伞一样减速。",
+      "image_prompt": "A cat gracefully falling through the air in slow motion, body perfectly stretched, fur flowing, city skyline background, golden hour lighting, dramatic composition, photorealistic, 16:9",
+      "subtitle": "超能力二：自由落体缓冲"
+    },
+    {
+      "id": 4,
+      "narration": "超能力三：声波治愈术。这可能是最不可思议的一个。科学家发现，猫咪发出的呼噜声频率在二十五到一百五十赫兹之间，而这个频率范围恰好被医学界证实能促进骨折愈合、减轻疼痛、甚至修复软组织损伤。也就是说，当你的猫咪趴在你身上打呼噜时，它可能正在给你做免费的声波理疗。",
+      "image_prompt": "A cozy cat curled up purring on a person's chest, warm golden light, visible sound wave ripples emanating from the cat in a magical sci-fi style, peaceful atmosphere, soft focus, photorealistic, 16:9",
+      "subtitle": "超能力三：声波治愈术"
+    },
+    {
+      "id": 5,
+      "narration": "超能力四：超灵敏雷达。猫咪的耳朵可以独立旋转一百八十度，像两个精密雷达一样精确定位声源。它们能听到超声波，频率上限高达六万四千赫兹，是人类的三倍。一只老鼠在二十米外的窸窣声，对猫咪来说就像在我们耳边放广播一样清晰。",
+      "image_prompt": "A cat with alert ears, close-up side profile, ear tufts visible, sound waves visualized as colorful concentric circles around the ears, dark blue night background, neon accent lighting, photorealistic, 16:9",
+      "subtitle": "超能力四：超灵敏雷达"
+    },
+    {
+      "id": 6,
+      "narration": "超能力五：预知未来。很多猫咪能在地震来临前表现出异常行为，科学家推测它们可能感知到了地震前释放的微弱电磁波。此外，不少猫咪还能精准预判主人回家的时刻，提前守在门口。这到底是因为它们超级敏锐的感官，还是真的拥有第六感？这个问题至今没有确切答案。好了，你家的猫主子还有哪些让你惊叹的技能呢？欢迎在评论区分享。",
+      "image_prompt": "A mystical cat sitting in a dark room with a glowing crystal ball, magical aura, starry sky through window, ethereal blue and purple lighting, mysterious and enchanting atmosphere, photorealistic, 16:9",
+      "subtitle": "超能力五：预知未来"
+    }
+  ]
+}
