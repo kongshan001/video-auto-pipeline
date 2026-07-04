@@ -23,6 +23,9 @@ output_final.mp4
 # 中间元数据
 upload_meta.json
 
+# Trending 抓取缓存（每日变动，会污染 git 历史）
+data/trending_*.json
+
 # 用户专属内容
 content.json
 
